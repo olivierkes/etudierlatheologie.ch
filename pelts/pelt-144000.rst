@@ -1,0 +1,52 @@
+:PELT: 144000
+:Titre: Modèle de PELT
+:Statut: élaboration
+:Date:
+:Auteur:
+
+==============
+Modèle de PELT
+==============
+
+Résumé
+======
+
+1§ de quelques lignes au maximum!
+
+Justification
+=============
+
+Pourquoi avez-vous rédigé cette PELT?
+Quel est le problème de départ?
+
+Argumentaire
+============
+
+Pour
+----
+
+Pourquoi ça vaut le coup? Sous forme de liste.
+
+#.
+#.
+#. 
+
+Contre
+------
+
+Et pourquoi ça me vaut pas la peine?
+
+#.
+#.
+#. 
+
+
+Application
+===========
+
+Quel processus pour appliquer cette PELT (étapes, délais, moyens)?
+
+#.
+#.
+#. 
+
