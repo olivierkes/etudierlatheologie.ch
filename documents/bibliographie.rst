@@ -49,4 +49,6 @@ Bibles
 * vivement conseillé: Traduction œcuménique de la Bible (TOB) en édition intégrale.
 * Daniel Marguerat et Camille Focant (dir.), Le Nouveau Testament commenté, Genève - Paris, Labor et Fides - Bayard.
 * Emmanuelle Lévy, Bibles en français. Tableau comparatif et descriptions des différentes traductions, document en ligne sous licence Creative Commons: http://www.protestant-edition.ch/Bibles-en-francais
+* la bible en hébreu : Biblia Hebraica Stuttgartentia (BHS), Stuttgart, Deutsche Bibelgesellschaft.
+* la bible en grec : Novum Testamentum Graece (Nestle-Aland), Stuttgart, Deutsche Bibelgesellschaft. 
 
