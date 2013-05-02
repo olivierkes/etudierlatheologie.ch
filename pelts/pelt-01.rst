@@ -25,6 +25,14 @@ Une PELT comporte obligatoirement les éléments suivants:
 #. Argumentaire: pour et contre
 #. Modalités d'application
 
+Fonction des PELT
+=================
+
+#. Proposer une évolution importante pour le site ou le projet en général.
+#. Modifier une PELT existante.
+
+Les modifications de contenu ne font pas partie des PELT.
+
 Proposer une PELT
 =================
 
