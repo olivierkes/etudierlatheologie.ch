@@ -1,0 +1,48 @@
+====== Étudier la théologie ======
+
+Partez à la découverte de la //théologie académique réformée//, par curiosité ou intérêt professionnel. Découvrez le //métier de pasteur//. Trouvez d'autres pistes pour découvrir la //théologie comme discipline intellectuelle//.
+
+<html>
+<div class="fb-like-box" data-href="https://www.facebook.com/pages/%C3%89tudier-la-th%C3%A9ologie/279560925508096?skip_nax_wizard=true" data-width="292" data-show-faces="false" data-stream="false" data-header="false"></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1&appId=148275742000785";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</html>
+
+===== Études universitaires =====
+
+**Vous comptez commencer des études en théologie en 2013? Prenez garde aux délais d'inscription des différentes universités!**
+
+
+Une grande partie de ce site est consacrée aux [[universite:start|études universitaires]] en théologie. On y trouve notamment des informations sur les [[universite:lieux:start|différents lieux d'études]], sur les [[universite:disciplines|disciplines de la théologie académique]], des [[universite:bibliographie|références bibliographiques]], des [[universite:bourses|renseignements sur les bourses d'étude]] et les différentes [[universite:formation-distance|formations à distance]].
+
+=> Je veux savoir plus sur les [[universite:start|études universitaires]].
+
+
+===== Devenir pasteur-e =====
+
+Un autre partie importante s'adresse à celles et ceux qui souhaitent [[devenir-pasteur:start|devenir pasteur-e]]. On y trouve un [[devenir-pasteur:promotion|certain nombre de liens sur le sujet]], des [[devenir-pasteur:contacts|contacts directs]], des information sur la [[devenir-pasteur:reconnaissance-titres|reconnaissance des titres universitaires]]. Et bientôt beauoup d'autres informations...
+
+=> Je veux savoir plus sur [[devenir-pasteur:start|devenir pasteur-e]].
+
+===== Autres études théologiques =====
+
+Hors du parcours académique traditionnel, il existe d'autres possibilités: des [[autres-etudes:cours-publics|cours publics]] ouverts à tous, un statut d'[[autres-etudes:auditeur-universite|auditeur libre]] dans les universités, des propositions de [[autres-etudes:formation-continue|formation continue]], quelques pistes d'[[autres-etudes:autoformation|autoformation]] ou dans [[autres-etudes:formation-para-ecclesiale|divers autres contextes]].
+
+=> Je veux en savoir plus sur les [[autres-etudes:start|autres études théologiques]].
+
+===== Pages générales =====
+
+{{ :logo-200.png?nolink&200|Logo www.etudierlatheologie.ch}}
+
+  * [[faq|FAQ de théol]]: notre foire aux questions
+  * [[medias|Revue de presse sur la théologie académique]]
+  * [[about|À propos de ce site]]
+  * [[contact|Contacts généraux]]
+
+Sans oublier notre compte twitter: [[https://twitter.com/EtudesTheologie|@etudestheologie]].

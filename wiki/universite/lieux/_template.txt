@@ -1,0 +1,27 @@
+====== @FILE@ ======
+
+===== Présentation =====
+
+Quelques lignes de résumé, éventuellement avec un peu d'histoire
+
+===== Points forts =====
+
+Des institutus spéciaux, des compéteces particulières, etc.
+
+===== Informations =====
+
+  * Facebook: 
+  * twitter: 
+  * Google+: 
+  * nom de l'université: 
+  * adresse complète: 
+  * ville: 
+  * pays: 
+  * URL: 
+  * mail: 
+  * téléphone: avec indicatif international
+  * confession(s): si orientation confessionnelle
+  * langue(s): 
+  * doyen-ne actuel-le:
+  * conseil aux études: un contact direct
+  * association d'étudiants: contact direct

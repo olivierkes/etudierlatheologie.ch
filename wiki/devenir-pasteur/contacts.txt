@@ -1,0 +1,8 @@
+====== Contacts concernant le pastorat ======
+
+^ Institution ^ URL ^ Contact ^ Mail ^ Téléphone ^
+| EREN | http://www.eren.ch/qui-nous-sommes/emploi/ | Fabrice Demarle | [[fabrice.demarle@eren.ch]] | +41 78 661 62 96 |
+| EERV |http://ressourceshumaines.eerv.ch/ | Nicolas Besson | [[nicolas.besson@eerv.ch]] | +41 21 331 21 51 |
+| OPF | http://www.protestant-formation.ch | Didier Halter | [[info@protestant-formation.ch]] | +41 32 853 51 91 | 
+
+D'autres contacts **directs** (en donnant le nom d'une personne)? Merci de les signaler à [[info@etudierlatheologie.ch]].

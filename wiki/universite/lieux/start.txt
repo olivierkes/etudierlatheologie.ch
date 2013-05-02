@@ -1,0 +1,37 @@
+====== Facultés de théologie ======
+
+Facultés protestantes de Suisse
+
+^ Ville  ^ Langue  ^ Remarques ^
+| [[universite:lieux:geneve|Genève]]  | fr  | Institut d'histoire de la Réformation |
+| [[universite:lieux:lausanne|Lausanne]]  | fr  | Institut romand de sciences bibliques, lien fort avec les sciences des religions |
+| [[universite:lieux:neuchatel|Neuchâtel]]  | fr  | Ne dispense plus qu'un tiers de master. Fermeture prévue en 2018. |
+| [[http://theolrel.unibas.ch/|Basel]]  | de  |   |
+| [[http://www.theol.unibe.ch/content/index_ger.html|Bern]]  | de  |   |
+| [[http://www.theologie.uzh.ch/index.html|Zürich]]  | de  | Institut d'herméneutique |
+
+Facultés protestantes francophones
+
+^ Ville  ^ Pays  ^ Remarques ^
+| [[universite:lieux:aix-en-provence|Aix-en-Provence]] | France | Faculté protestante et évangélique |
+| [[universite:lieux:bruxelles|Bruxelles]] | Belgique  |   |
+| [[universite:lieux:ipt|Montpellier]]  | France  | En lien avec Paris |
+| [[universite:lieux:ipt|Paris]]  | France  | En lien avec Montpellier |
+| [[universite:lieux:strasbourg|Strasbourg]]  | France  | Aussi une faculté catholique |
+| [[universite:lieux:vaux-sur-seine|Vaux-sur-Seine]] | France | Faculté libre évangélique |
+| [[http://www.upac-edu.org/|Yaoundé]]  | Cameroun  | Université protestante d'Afrique centrale |
+
+Autres facultés (non protestantes et/ou non francophones)
+
+^ Ville  ^ Pays  ^ Langue  ^ Confession ^
+| [[http://www2.hu-berlin.de/theologie/|Berlin]]  | Allemagne  | de  | protestante |
+| [[http://www.unifr.ch/theo/fr|Fribourg]]  | Suisse  | fr & de  | catholique |
+| [[http://www.theologie.uni-heidelberg.de/|Heidelberg]]  | Allemagne  | de  | protestante |
+| [[http://www.ftsr.ulaval.ca/|Laval]]  | Canada  | fr  | catholique |
+| [[http://www.uclouvain.be/teco.html|Louvain]]  | Belgique  | fr  | catholique |
+| [[http://www.unilu.ch/deu/theologische_fakultaet_2990.html|Luzern]]  | Suisse  | de  | catholique |
+| [[http://www.ftsr.umontreal.ca/index.html|Montréal]]  | Canada  | fr  | catholique |
+| [[http://www.icp.fr/|Paris]]  | France  | fr  | catholique |
+| [[http://www.usherbrooke.ca/fater/|Sherbrooke]]  | Canada  | fr  | catholique |
+| [[http://www.ev-theologie.uni-tuebingen.de/|Tübingen]]  | Allemagne  | de  | protestante |
+| [[http://www.kiho-wb.de/|Wuppertal]]  | Allemagne  | de  | protestante |
