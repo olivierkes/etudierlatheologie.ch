@@ -11,7 +11,7 @@ Ouvrages généraux
 * Pierre Gisel (dir.), Encyclopédie du protestantisme, Genève - Paris, Labor et Fides - PUF.
 * Laurent Gagnebin et Raphaël Picon, Le protestantisme. La foi insoumise, Paris, Flammarion, Champs Essais.
 
-Ancien Testement
+Ancien Testament
 ================
 
 * Thomas Römer, Jean-Daniel Macchi et Christophe Nihan (dir.), Introduction à l’Ancien Testament, Genève, Labor et Fides, Le Monde de la Bible / Introductions.
