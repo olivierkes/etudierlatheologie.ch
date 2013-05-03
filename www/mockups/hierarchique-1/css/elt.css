@@ -1,6 +1,5 @@
 body {
 	padding-top: 20px;
-	padding-bottom: 60px;
 }
 
 /* Custom container */
@@ -38,6 +37,9 @@ body {
 	margin-top: 28px;
 }
 
+.footer{
+	padding: 50px 0px;
+}
 
 /* Customize the navbar links to be fill the entire space of the .navbar */
 /*.navbar .navbar-inner {

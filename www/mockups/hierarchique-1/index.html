@@ -34,42 +34,70 @@
 		<div class="navbar">
 			<div class="navbar-inner">
 			<div class="container">
-				<ul class="nav">
-				<li class="active"><a href="index.html">Accueil</a></li>
-				<li role="presentation"><a role="menuitem" tabindex="-1" href="le-guide.html">Le guide</a></li>
-				<li class="dropdown">
-					<a data-target="#" data-toggle="dropdown" role="button" class="dropdown-toggle">La théologie</a>
-					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-						<li role="presentation"><a role="menuitem" tabindex="-1" href="#">C'est quoi?</a></li>
-						<li role="presentation"><a role="menuitem"  tabindex="-1" href="#">Ça mène à quoi?</a></li>
-						 <li role="presentation" class="dropdown-submenu">
-							<a tabindex="-1" href="#">Ressources</a>
-							<ul class="dropdown-menu">
+			
+				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</a>
+				
+				<a class="brand hidden-desktop" href="#">Menu</a>
+				
+				<div class="nav-collapse collapse">
+					<ul class="nav">
+						<li class="active"><a href="index.html">Accueil</a></li>
+						<li role="presentation"><a role="menuitem" tabindex="-1" href="le-guide.html">Le guide</a></li>
+						<li class="dropdown">
+							<a data-target="#" data-toggle="dropdown" role="button" class="dropdown-toggle">La théologie</a>
+							<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+								<li role="presentation"><a role="menuitem" tabindex="-1" href="#">C'est quoi?</a></li>
+								<li role="presentation"><a role="menuitem"  tabindex="-1" href="#">Les différentes branches</a></li>
+								<li role="presentation"><a role="menuitem"  tabindex="-1" href="#">Différentes approches</a></li>
+								<li class="nav-header">Ressources</li>
 								<li><a role="menuitem" tabindex="-1" href="#">Bibliographie</a></li>
+								<li><a role="menuitem" tabindex="-1" href="#">Soutien financier</a></li>
+							</ul>
+						</li>
+						<li class="dropdown">
+							<a data-target="#" data-toggle="dropdown" role="button" class="dropdown-toggle">Lieux d'études</a>
+							<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+								<li class="nav-header">Trouver</li>
+								<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Par situation géographique</a></li>
+								<li role="presentation"><a role="menuitem"  tabindex="-1" href="#">Par niveau académique</a></li>
+								<li role="presentation"><a role="menuitem"  tabindex="-1" href="#">Par orientation théologique</a></li>
+								<li role="presentation"><a role="menuitem"  tabindex="-1" href="#">Cours en ligne</a></li>
+								<li class="nav-header">Infos</li>
 								<li><a role="menuitem" tabindex="-1" href="#">Soutient financier</a></li>
 							</ul>
 						</li>
+						<li class="dropdown">
+							<a data-target="#" data-toggle="dropdown" role="button" class="dropdown-toggle">Débouchés</a>
+							<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+								<li class="nav-header">Pastorat</li>
+								<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Présentation</a></li>
+								<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Conditions</a></li>
+								<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Contacts</a></li>
+								<li class="nav-header">Autres</li>
+								<li role="presentation"><a role="menuitem"  tabindex="-1" href="#">Quelques exemples</a></li>
+							</ul>
+						</li>
+						<li class="dropdown">
+							<a data-target="#" data-toggle="dropdown" role="button" class="dropdown-toggle">Questions</a>
+							<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+								<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Contacts</a></li>
+								<li role="presentation"><a role="menuitem"  tabindex="-1" href="#">FAQ de théologie</a></li>
+							</ul>
+						</li>
+						<li><a href="#">À propos</a></li>
 					</ul>
-				</li>
-				<li class="dropdown">
-					<a data-target="#" data-toggle="dropdown" role="button" class="dropdown-toggle">Lieux d'études</a>
-					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-						<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Par situation géographique</a></li>
-						<li role="presentation"><a role="menuitem"  tabindex="-1" href="#">Par niveau académique</a></li>
-						<li role="presentation"><a role="menuitem"  tabindex="-1" href="#">Par orientation théologique</a></li>
-						<li role=presentation" class="divider">
-						<li role="presentation"><a role="menuitem"  tabindex="-1" href="#">Cours en ligne</a></li>
+					<ul class="nav pull-right">
+						<li>
+							<form class="navbar-search pull-left">
+							<input type="text" class="search-query" placeholder="Search">
+							</form>
+						</li>
 					</ul>
-				</li>
-				<li class="dropdown">
-					<a data-target="#" data-toggle="dropdown" role="button" class="dropdown-toggle">Questions</a>
-					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
-						<li role="presentation"><a role="menuitem" tabindex="-1" href="#">Contacts</a></li>
-						<li role="presentation"><a role="menuitem"  tabindex="-1" href="#">FAQ de théologie</a></li>
-					</ul>
-				</li>
-				<li><a href="#">À propos</a></li>
-				</ul>
+				</div>
 			</div>
 			</div>
 		</div> <!-- /.navbar -->
@@ -84,32 +112,44 @@
 
 		<hr>
 		
-		<!-- Example row of columns -->
 		<div class="row-fluid center">
-		<div class="span4">
-			<h2>La théologie?</h2>
-			<p>La théologie est une discipline fascinante (et non pas fanatisante), dont on trouvera autant de définitions que de théologiens. Vous trouverez ici une présentation des disciplines principales de la théologie, pour vous en faire une meilleure idée.</p>
-			<p><a class="btn" href="#">La théologie &raquo;</a></p>
+			<div class="span4">
+				<h2>La théologie?</h2>
+				<p>La théologie est une discipline fascinante (et non pas fanatisante), dont on trouvera autant de définitions que de théologiens. Vous trouverez ici une présentation des disciplines principales de la théologie, pour vous en faire une meilleure idée.</p>
+			</div>
+			<div class="span4">
+				<h2>Où étudier?</h2>
+				<p>La théologie est à la base de la formation des universités. On la trouve encore dans la plupart des grandes universités, d'ici et d'ailleurs. Profitez-en, cela pourrait ne pas durer ! Si la voie académique est la voie royale, il existe d'autres moyens de se former, en cours d'emploi ou à des niveaux d'études différents.</p>
+			</div>
+			<div class="span4">
+				<h2>Devenir pasteur·e?</h2>
+				<p>Pasteur est un super métier plein d'avenir et d'avantages (dont celui de ne travailler qu'une heure le dimanche matin). Mais la théologie mène vers bien plus que cela.</p>
+			</div>
 		</div>
-		<div class="span4">
-			<h2>Où étudier?</h2>
-			<p>La théologie est à la base de la formation des universités. On la trouve encore dans la plupart des grandes universités, d'ici et d'ailleurs. Profitez-en, cela pourrait ne pas durer ! Si la voie académique est la voie royale, il existe d'autres moyens de ce former, en cours d'emploi ou à des niveaux d'études différents.</p>
-			<p><a class="btn" href="#">Lieux d'études &raquo;</a></p>
+
+		<div class="row-fluid center">
+			<div class="span4">
+				<p><a class="btn btn-block" href="#">La théologie &raquo;</a></p>
+			</div>
+			<div class="span4">
+				<p><a class="btn btn-block" href="#">Lieux d'études &raquo;</a></p>
+			</div>
+			<div class="span4">
+				<p><a class="btn btn-block" href="#">Débouchés &raquo;</a></p>
+			</div>
 		</div>
-		<div class="span4">
-			<h2>Être pasteur?</h2>
-			<p>Pasteur est un super métier plein d'avenir et d'avantages (dont celui de ne travailler qu'une heure le dimanche matin). Mais la théologie mène vers bien plus que cela.</p>
-			<p><a class="btn" href="#">Débouchées &raquo;</a></p>
-		</div>
-		</div>
+		
 
 		<hr>
-
-		<div class="footer">
-		<p>&copy; 2013 Collectif ELT</p>
-		</div>
-
 	</div> <!-- /container -->
+	
+	<div class="footer">
+		<div class="container">
+			<p>&copy; 2013 Collectif ELT</p>
+		</div>
+	</div>
+
+
 
 	<!-- Le javascript
 	================================================== -->

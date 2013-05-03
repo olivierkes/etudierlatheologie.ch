@@ -40,7 +40,7 @@ Théologie systématique
 Théologie pratique
 ==================
 
-* Bernard Kaempf (dir.), Introduction à la théologie pratique, Strasbourg, Presses Universitaires de Strasbourg, 1997.
+* Bernard Kaempf (dir.), Introduction à la théologie pratique, Strasbourg, Presses Universitaires de Strasbourg.
 * autres pistes bibliographiques en TP: http://www.sitp.org/la-theologie-pratique/
 
 Bibles
