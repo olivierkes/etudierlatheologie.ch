@@ -24,6 +24,7 @@
 .. toctree::
     :maxdepth: 1
 
+    test
     a-propos
     etymologie-theologie
     disciplines/index
