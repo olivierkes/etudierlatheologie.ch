@@ -1,7 +1,7 @@
 :PELT: 3
 :Titre: Lieux d'étude de la théologie
 :Statut: élaboration
-:Date: 2013-05-06
+:Date: 
 :Auteur: Olivier Keshavjee
 
 =============================

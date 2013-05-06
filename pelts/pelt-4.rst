@@ -1,4 +1,4 @@
-:PELT: 04
+:PELT: 4
 :Titre: Démarche qualité
 :Statut: élaboration
 :Date: 2013-05-06
