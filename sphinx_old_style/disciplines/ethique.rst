@@ -1,4 +1,0 @@
-Éthique
-=======
-
-**À compléter**
