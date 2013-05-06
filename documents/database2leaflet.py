@@ -4,7 +4,7 @@
 # preview:  http://www.theologeek.ch/elt/lieux-detudes/par-situation-geographique/
 
 
-import sys
+import sys, csv
 
 include = """<link href="http://cdn.leafletjs.com/leaflet-0.4/leaflet.css" rel="stylesheet" />
 <!--[if lte IE 8]>
@@ -43,7 +43,7 @@ if __name__ == "__main__":
     if len(sys.argv) >= 2:
         db = sys.argv[1]
     else:
-        db = '../../../documents/facultes.csv'
+        db = 'facultes.csv'
     
     f = open(db, 'r')
     t = f.read()
