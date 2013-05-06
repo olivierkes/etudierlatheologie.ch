@@ -17,13 +17,13 @@ Justification
 =============
 
 Beaucoup de sites institutionnels présentent des informations incomplètes ou dépassées.
-Les mises à jour sont massives et très occassionnelles (refonte du site), mais il y a peu d'évolution entre deux grandes mises à jour.
+Les mises à jour sont massives et très occasionnelles (refonte du site), mais il y a peu d'évolution entre deux grandes mises à jour.
 
 Proposition
 ===========
 
-Une démarche qualité comprises comme un travail permanent.
-Les erreurs ou imprécisions de contenus sont à considérer comme des bugs et les demandes commes des améliorations à proposer.
+Une démarche qualité comprise comme un travail permanent.
+Les erreurs ou imprécisions de contenus sont à considérer comme des bugs et les demandes comme des améliorations à proposer.
 
 Principes
 ---------
@@ -52,8 +52,8 @@ Pour
 ----
 
 #.  Les utilisateurs doivent avoir confiance en la qualité des réponses du site.
-    Notre crédibilité dépend de la qualité de nos propostions.
-#.  Se démarquer des sites pas toujours à jour des insitutions du domaine.
+    Notre crédibilité dépend de la qualité de nos propositions.
+#.  Se démarquer des sites pas toujours à jour des institutions du domaine.
 #.  Nous devons montrer que les personnes nous intéressent et que nous sommes prêts à les aider à faire leur choix.
 
 Contre
