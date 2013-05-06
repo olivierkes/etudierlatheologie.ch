@@ -36,9 +36,11 @@ Pratique
 --------
 
 #.  Toute question sur Facebook, twitter, commentaire du site, mail ou orale doit être comprise comme une possible proposition d'amélioration:
-    #.  Si la réponse existe déjà sur le site, on y renvoie la personne, précisément, sans copier-coller de la réponse.
-    #.  Si la question est très personnelle, très spécifique, une réponse directe est apportée, sans suite.
-    #.  Si la question a une portée plus générale, le contenu de la réponse est intégré au site.
+    
+    *  Si la réponse existe déjà sur le site, on y renvoie la personne, précisément, sans copier-coller de la réponse.
+    *  Si la question est très personnelle, très spécifique, une réponse directe est apportée, sans suite.
+    *  Si la question a une portée plus générale, le contenu de la réponse est intégré au site.
+
 #.  Lorsqu'une question est posée, s'il l'on ne peut y répondre immédiatement, on en accuse réception et on annonce que l'on va y répondre dans les plus brefs délais.
 #.  Si le contenu de la réponse a été ajouté au site, on l'annonce publiquement sur Facebook et twitter. 
     On en averti la personne qui l'a posée.
