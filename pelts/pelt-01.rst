@@ -1,6 +1,8 @@
 :PELT: 1
 :Titre: Qu'est-ce qu'une PELT?
 :Statut: élaboration
+:Date:
+:Auteur: Nicolas Friedli
 
 
 =======================

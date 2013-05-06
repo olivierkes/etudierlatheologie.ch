@@ -1,6 +1,8 @@
 :PELT: 2
 :Titre: Nos engagements
 :Statut: élaboration
+:Date:
+:Auteur:
 
 
 ===============
