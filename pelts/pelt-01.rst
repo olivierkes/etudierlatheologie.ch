@@ -22,6 +22,7 @@ Une PELT comporte obligatoirement les éléments suivants:
 #. Titre explicite
 #. Résumé
 #. Justification générale
+#. Proposition
 #. Argumentaire: pour et contre
 #. Modalités d'application
 
