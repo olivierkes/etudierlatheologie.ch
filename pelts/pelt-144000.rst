@@ -19,6 +19,11 @@ Justification
 Pourquoi avez-vous rédigé cette PELT?
 Quel est le problème de départ?
 
+Proposition
+===========
+
+Concrètement, que propose cette PELT?
+
 Argumentaire
 ============
 
