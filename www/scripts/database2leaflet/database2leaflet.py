@@ -20,10 +20,6 @@ include = """<link href="http://cdn.leafletjs.com/leaflet-0.4/leaflet.css" rel="
 carte = """<div id="map" style="height: 400px;"></div>"""
      
      
-txt= """<ul>
-        <li><b>N° 1:</b> Groupe mixte, <i>2ème et 4ème Mardi 19h30-22h</i> <a href="#map" onClick="groupe1.openPopup();">(carte)</a></li>
-     </ul>"""
-     
      
 initialisation_A = """<script>
      //initialisation de la carte
