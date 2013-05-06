@@ -19,7 +19,7 @@ Proposition
 
 Je propose que nous recensions tous les lieux dans lesquels il est possible d'étudier la théologie en Suisse et dans les pays voisins. Qu'ils s'agisse de facultés dans des universités d'états, de facultés autonomes ou libres, de hautes écoles, ou d'autres formations ecclésiales.
 
-Et qu'en suite nous les classifions selon une méthode qu'il faudra encore élaborer (modification de cette PELT nécessaire) en fonction:
+Et qu'ensuite nous les classifions selon une méthode qu'il faudra encore élaborer (modification de cette PELT nécessaire) en fonction:
 
 * De la tradition théologique
 * Des titres décernés (bachelor, master, etc.)
@@ -35,22 +35,21 @@ Argumentaire
 Pour
 ----
 
-#.
-#.
-#. 
+#. Exhaustivité: aucun site ne recense tout actuellement.
+#. Montrer que la théologie, ce n'est pas que l'université.
+#. Inciter des insitutions à faire des liens sur cette page complète et bien à jour.
 
 Contre
 ------
 
-#.
-#.
-#. 
+#. Trop de données peut rendre la chose confuse pour les nouveaux arrivants.
+#. Ne pas pousser les étudiants vers des lieux qui leur compliquent la vie ensuite (reconnaissance pour le pastorat...).
 
 
 Application
 ===========
 
-#.
-#.
-#. 
+#. Liste la plus complète possible, dans le tableau CSV.
+#. Discussion, si nécessaire, si on garde tout ou non.
+#. Critères des classements: géographiques, théologiques, niveau d'études
 
