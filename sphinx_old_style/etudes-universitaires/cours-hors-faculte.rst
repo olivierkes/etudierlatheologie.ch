@@ -1,0 +1,21 @@
+Cours hors faculté de théologie
+===============================
+
+Plusieurs facultés de théologie offrent des cours hors du cursus classique en théologie:
+
+#.  Des cours donnés en faculté de théologie mais disponibles pour des étudiants d'autres facultés.
+    Ils peuvent être reconnus et validés dans des cursus de Lettres ou de sciences humaines.
+    Ils peuvent faire partie ou non du cursus des théologiens.
+
+#.  Des cours donnés par des professeurs de théologie dans d'autres facultés.
+    Ils sont spécifiquement destinés aux étudiants non théologiens.
+    Ils peuvent s'intégrer à un cursus de la faculté d'immatriculation.
+
+|pub|
+    
+Presque toutes les universités dotées d'une faculté de théologie proposent ce genre de ponts. 
+Certaines prévoient des programmes types, d'autres envisagent ces collaborations au cas par cas.
+
+.. note:: 
+
+    Même si la validation (examen, travail, notation continue, etc.) est généralement la responsabilité du professeur théologien, il vaut toujours la pein de se renseigner auprès de la faculté d'immatriculation pour savoir comment ces cours compteront dans le cursus de l'étudiant: nombre de crédits, obligatoires ou facultatifs, etc.
