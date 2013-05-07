@@ -76,7 +76,8 @@ if __name__ == "__main__":
         #if "Allemand" in i[7]: langue += '<img src="http://upload.wikimedia.org/wikipedia/commons/b/b5/Icons-flag-de.png">'
         
         # La description dans le popup
-        description = '<b>{0}</b><br><i>{4}</i><br>{1}, {2}<br><a href="#">présentation</a> | <a href="{3}" target="_blank">site web</a>'.format(re.escape(i[0]), re.escape(i[1]), i[2], i[4], i[5])
+        virgule = ", " if i[1] and i[2] else ""
+        description = '<b>{0}</b><br><i>{4}</i><br>{1}{5}{2}<br><a href="#">présentation</a> | <a href="{3}" target="_blank">site web</a>'.format(re.escape(i[0]), re.escape(i[1]), i[2], i[4], i[5], virgule)
         
         # Changer d'icône pour les facultés cathos
         marker = ""
