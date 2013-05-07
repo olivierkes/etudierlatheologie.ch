@@ -28,9 +28,17 @@ initialisation_A = """<script>
      L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
      attribution: 'Map data © OpenStreetMap contributors',
      maxZoom: 18
-     }).addTo(map);\n"""
+     }).addTo(map);
+     //Ajout d'une deuxième icône
+     var catho = L.icon({
+    iconUrl: 'http://www.theologeek.ch/elt/assets/marker-red.png',
+    //iconRetinaUrl: 'my-icon@2x.png',
+    iconSize: [25, 40],
+    iconAnchor: [12, 40],
+    popupAnchor: [1, -34]
+});\n"""
 
-faculte = """var fac{0} = L.marker([{1}]).addTo(map); 
+faculte = """var fac{0} = L.marker([{1}]{3}).addTo(map); 
 fac{0}.bindPopup('{2}');\n"""
 
 initialisation_B = "</script>\n"
@@ -70,8 +78,12 @@ if __name__ == "__main__":
         # La description dans le popup
         description = '<b>{0}</b><br><i>{4}</i><br>{1}, {2}<br><a href="#">présentation</a> | <a href="{3}" target="_blank">site web</a>'.format(re.escape(i[0]), re.escape(i[1]), i[2], i[4], i[5])
         
+        # Changer d'icône pour les facultés cathos
+        marker = ""
+        if "Catholique" in i[5]: marker = ", {icon: catho}"
+        
         # On ajoute le javascript nécessaire pour ajouter la fac
-        page += faculte.format(t.index(i), i[6], description)
+        page += faculte.format(t.index(i), i[6], description, marker)
         
         #Calcul de la moyenne des coordonnées
         cx += float(i[6].split(",")[0])
