@@ -4,7 +4,7 @@
 # preview:  http://www.theologeek.ch/elt/lieux-detudes/par-situation-geographique/
 
 
-import sys, csv
+import sys, csv, re
 
 include = """<link href="http://cdn.leafletjs.com/leaflet-0.4/leaflet.css" rel="stylesheet" />
 <!--[if lte IE 8]>
@@ -23,7 +23,7 @@ carte = """<div id="map" style="height: 400px;"></div>"""
      
 initialisation_A = """<script>
      //initialisation de la carte
-     var map = L.map('map').setView([_COORD_], 8);
+     var map = L.map('map').setView([_COORD_], 6);
      //Utilisation d'OSM
      L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
      attribution: 'Map data © OpenStreetMap contributors',
@@ -63,12 +63,12 @@ if __name__ == "__main__":
     
     for i in t[1:]:
         # Images des drapeaux des langues
-        langue = ""
-        if "Français" in i[7]: langue += '<img src="http://upload.wikimedia.org/wikipedia/commons/f/f3/Icons-flag-fr.png">'
-        if "Allemand" in i[7]: langue += '<img src="http://upload.wikimedia.org/wikipedia/commons/b/b5/Icons-flag-de.png">'
+        #langue = ""
+        #if "Français" in i[7]: langue += '<img src="http://upload.wikimedia.org/wikipedia/commons/f/f3/Icons-flag-fr.png">'
+        #if "Allemand" in i[7]: langue += '<img src="http://upload.wikimedia.org/wikipedia/commons/b/b5/Icons-flag-de.png">'
         
         # La description dans le popup
-        description = '<b>{0}</b><br><i>{5} {4}</i><br>{1}, {2}<br><a href="#">présentation</a> | <a href="{3}" target="_blank">site web</a>'.format(i[0], i[1], i[2], i[4], i[5], langue)
+        description = '<b>{0}</b><br><i>{4}</i><br>{1}, {2}<br><a href="#">présentation</a> | <a href="{3}" target="_blank">site web</a>'.format(re.escape(i[0]), re.escape(i[1]), i[2], i[4], i[5])
         
         # On ajoute le javascript nécessaire pour ajouter la fac
         page += faculte.format(t.index(i), i[6], description)
@@ -83,6 +83,9 @@ if __name__ == "__main__":
     
     # Calculer la moyenne des coordonnées, et convertir en string
     c = str(cx/n) + ", " + str(cy/n)
+    
+    # Centrer sur l'Europe (la moyenne est foireuse)
+    c = "48.070738,6.183471"
     
     # Retourner le bousin
     print(page.replace("_COORD_", c))
