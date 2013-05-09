@@ -1,4 +1,4 @@
-import sys, csv, re, jinja2
+import sys, csv, jinja2
 
 template="""
 <link href="http://cdn.leafletjs.com/leaflet-0.4/leaflet.css" rel="stylesheet" />
@@ -12,7 +12,7 @@ template="""
 <div id="map" style="height: 400px;"></div>
 <script>
      //initialisation de la carte
-     var map = L.map('map').setView([_COORD_], 6);
+     var map = L.map('map').setView([46,7], 6);
      //Utilisation d'OSM
      L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
      attribution: 'Map data © OpenStreetMap contributors',
@@ -27,13 +27,11 @@ template="""
     popupAnchor: [1, -34]
 });
 {% for d in data -%}
-    var fac{{ loop.index }} = L.marker([{{ d.geo }}]).addTo(map); 
-    fac{{ loop.index }}.bindPopup('<b>{{ d.faculte }}</b><br />{% if d.theologie %}<i>{{ d.theologie }}</i><br />{% endif %}{{ d.universite}}, {{ d.ville }}<br /><a href="#">présentation</a> | <a href="{{ d.web }}" target="_blank">site web</a>');
+var fac{{ loop.index }} = L.marker([{{ d.geo }}]).addTo(map); 
+fac{{ loop.index }}.bindPopup('<b>{{ d.faculte|e }}</b><br />{% if d.theologie %}<i>{{ d.theologie|e }}</i><br />{% endif %}{{ d.universite|e }} - {{ d.ville|e }}<br /><a href="#">présentation</a> | <a href="{{ d.web }}" target="_blank">site web</a>');
 {% endfor -%}
 </script>
 """
-
-data = csv.reader("facultes.csv")
 
 if __name__ == "__main__":
     
