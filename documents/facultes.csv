@@ -1,4 +1,4 @@
-Faculté	Université	Ville	Pays	Site web	Tradition théologique	Coordonnées géographiques	Langue principale
+faculte	universite	ville	pays	web	theologie	geo	langue
 Faculté de Théologie et de Sciences des Religions	Unil	Lausanne	Suisse	www.unil-ch/ftsr	Réformée moderne	46.523431,6.584693	Français
 Theologische Fakultät	Unibasel	Bâle	Suisse	http://theolrel.unibas.ch/		47.558152,7.585392	Allemand
 Theologische Fakultät	Universität Bern	Berne	Suisse	http://www.theol.unibe.ch/content/index_ger.html		46.954627,7.429892	Allemand
@@ -23,4 +23,4 @@ Faculté de théologie et d'études religieuses	Université de Sherbrooke	Sherbr
  Evang.-theol. Fakultät	Eberhard Karls Universität Tübingen	Tübingen 	Allemagne 	http://www.ev-theologie.uni-tuebingen.de/	protestante	48.525068,9.055384	Allemand
 Kirchliche Hochschule		Wuppertal 	Allemagne 	http://www.kiho-wb.de/	protestante	51.265688,7.170188	Allemand
 Faculté de Théologie Catholique	Université de Strasbourg	Strasbourg 	France 	http://www.theocatho-strasbourg.fr/	Catholique	48.585224,7.762086	Français
-Evangelische Theologie	Universität Osnabrück	Osnabtûck	Allemagne 	http://www.ev-theologie.uni-osnabrueck.de/	protestante	52.283679,8.025335	Allemand
+Evangelische Theologie	Universität Osnabrück	Osnabrück	Allemagne 	http://www.ev-theologie.uni-osnabrueck.de/	protestante	52.283679,8.025335	Allemand
