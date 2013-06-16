@@ -47,3 +47,7 @@ Application
 #. Sans mention explicite, le contenu est donc CC0.
 #. Sous réserve, un contenu peut se voir attribuer une autre licence (p.ex. contenus repris d'ailleurs).
 
+Votes
+=====
+
++1: Nicolas Friedli 
